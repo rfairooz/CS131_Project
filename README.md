@@ -1,9 +1,10 @@
 # Signal Vision Project
 
 ## TechStack
-+ AlexNet - CNN
++ AlexNet - Convolutional Neural Network Model for image classification
 + Python
 + Tensorflow
++ PyTorch
 + Jetson Nano 2.0 gb/4.0 gb
 + Logitech Webcam
 
@@ -19,7 +20,7 @@ An AI driven sign language application, SignalVision, whcih will detect hand ges
 
 Below are the phases of the projects describing what technology, devices and methods we used to build this product. 
 
-+ [Phase 1]()
-+ [Phase 2]()
-+ [Final Presentation]()
++ [Phase 1](/files/Group%208_Phase%201.pdf)
++ [Phase 2](/files/Group8_Phase2.pdf)
++ [Final Presentation](/files/Signal%20Vision%20Final.pdf)
 
